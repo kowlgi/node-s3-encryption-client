@@ -1,6 +1,6 @@
 {
   "name": "node-s3-encryption-client",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Node.js implementation of the KMS Envelope Encryption for AWS S3",
   "main": "./index.js",
   "directories": {
