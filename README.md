@@ -1,8 +1,7 @@
 # node-s3-encryption-client [![Build Status](https://travis-ci.org/gilt/node-s3-encryption-client.svg?branch=master)](https://travis-ci.org/gilt/node-s3-encryption-client)
 Node.js implementation of the KMS Envelope Encryption for AWS S3
 
-# IMPORTANT NOTE:
-This is a modified version of the original node-s3-encryption-client. This version is meant to be used in the context of the Effective S3 File Security (https://github.com/kowlgi/effective-s3-file-security) repository.
+# IMPORTANT NOTE: This is a modified version of the original node-s3-encryption-client. This version is meant to be used in the context of the Effective S3 File Security (https://github.com/kowlgi/effective-s3-file-security) repository.
 
 The Amazon S3 Encryption Client (http://docs.aws.amazon.com/kms/latest/developerguide/services-s3.html#sse-client)
 currently only exists for Java and Ruby. This library implements KMS envelope encryption
